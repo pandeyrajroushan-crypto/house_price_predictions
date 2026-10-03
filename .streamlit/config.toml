@@ -1,0 +1,15 @@
+[theme]
+# Professional Subtle Green for primary actions (buttons, sliders)
+primaryColor = "#2E8B57"
+
+# White background
+backgroundColor = "#FFFFFF"
+
+# Light gray/blue tint for sidebar and secondary elements
+secondaryBackgroundColor = "#F4F6F9"
+
+# Navy Blue for text readability
+textColor = "#0A192F"
+
+# Font selection
+font = "sans serif"

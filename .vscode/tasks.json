@@ -1,0 +1,25 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Generate Dataset",
+            "type": "shell",
+            "command": "python data/generate_data.py",
+            "group": "build",
+            "problemMatcher": []
+        },
+        {
+            "label": "Train Model",
+            "type": "shell",
+            "command": "python train_model.py",
+            "group": "build",
+            "problemMatcher": []
+        },
+        {
+            "label": "Run Streamlit",
+            "type": "shell",
+            "command": "streamlit run app.py",
+            "problemMatcher": []
+        }
+    ]
+}
