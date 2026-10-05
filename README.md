@@ -2,7 +2,7 @@
 
 An end-to-end Machine Learning web application designed to predict real estate prices and provide interactive market analytics. Built entirely with Python.
 
-## 🚀 Technology Stack
+##  Technology Stack
 * **Frontend Dashboard:** Streamlit
 * **Machine Learning:** Scikit-learn (Pipelines, Ensembles)
 * **Data Processing:** Pandas, NumPy
